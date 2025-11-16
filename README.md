@@ -10,24 +10,24 @@ Repository for all simulations, analysis and visualization code in the project e
 | **`leaky_diaux_supp_figs_v1.ipynb`**                         | Contains code for all analysis and visualizations used in the **supplementary figures.** |
 |                                                              |                                                              |
 
-![fig1_1-1](figs\fig1_1-1.png)
+![fig1_1-1](figs/fig1_1-1.png)
 
 Evolved metabolic strategies under resource fluctuations.
 
 
 
-![fig2_2-1](figs\fig2_2-1.png)
+![fig2_2-1](figs/fig2_2-1.png)
 
 Different metabolic strategies evolve under increasing fluctuations.
 
 
 
-![fig3_2-1](figs\fig3_2-1.png)
+![fig3_2-1](figs/fig3_2-1.png)
 
 Emergence of 3 distinct metabolic strategies.
 
 
 
-![fig4_1-1](figs\fig4_1-1.png)
+![fig4_1-1](figs/fig4_1-1.png)
 
 Emergence of 3 metabolic strategies for $n_R$ = 3, 4 resources.
